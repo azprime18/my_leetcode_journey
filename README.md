@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/azprime18/my_leetcode_journey/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/azprime18/my_leetcode_journey/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/azprime18/my_leetcode_journey/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -33,9 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/azprime18/my_leetcode_journey/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/azprime18/my_leetcode_journey/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/azprime18/my_leetcode_journey/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/azprime18/my_leetcode_journey/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
