@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/azprime18/my_leetcode_journey/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/azprime18/my_leetcode_journey/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/azprime18/my_leetcode_journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/azprime18/my_leetcode_journey/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -55,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/azprime18/my_leetcode_journey/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/azprime18/my_leetcode_journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/azprime18/my_leetcode_journey/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
