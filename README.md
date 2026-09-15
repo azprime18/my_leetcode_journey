@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/azprime18/my_leetcode_journey/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/azprime18/my_leetcode_journey/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/azprime18/my_leetcode_journey/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/azprime18/my_leetcode_journey/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/azprime18/my_leetcode_journey/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/azprime18/my_leetcode_journey/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/azprime18/my_leetcode_journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/azprime18/my_leetcode_journey/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/azprime18/my_leetcode_journey/tree/master/0326-power-of-three) |
