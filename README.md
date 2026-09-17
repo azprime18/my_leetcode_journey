@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/azprime18/my_leetcode_journey/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/azprime18/my_leetcode_journey/tree/master/0048-rotate-image) |
+| [0169-majority-element](https://github.com/azprime18/my_leetcode_journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/azprime18/my_leetcode_journey/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/azprime18/my_leetcode_journey/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -101,4 +103,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/azprime18/my_leetcode_journey/tree/master/0102-binary-tree-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/azprime18/my_leetcode_journey/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/azprime18/my_leetcode_journey/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/azprime18/my_leetcode_journey/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/azprime18/my_leetcode_journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
