@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/azprime18/my_leetcode_journey/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/azprime18/my_leetcode_journey/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/azprime18/my_leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/azprime18/my_leetcode_journey/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/azprime18/my_leetcode_journey/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/azprime18/my_leetcode_journey/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/azprime18/my_leetcode_journey/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
