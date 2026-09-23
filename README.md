@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/azprime18/my_leetcode_journey/tree/master/0072-edit-distance) |
+| [1903-largest-odd-number-in-string](https://github.com/azprime18/my_leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/azprime18/my_leetcode_journey/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/azprime18/my_leetcode_journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/azprime18/my_leetcode_journey/tree/master/0342-power-of-four) |
+| [1903-largest-odd-number-in-string](https://github.com/azprime18/my_leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/azprime18/my_leetcode_journey/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/azprime18/my_leetcode_journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/azprime18/my_leetcode_journey/tree/master/0134-gas-station) |
+| [1903-largest-odd-number-in-string](https://github.com/azprime18/my_leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
