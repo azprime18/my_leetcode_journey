@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/azprime18/my_leetcode_journey/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/azprime18/my_leetcode_journey/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1929-concatenation-of-array](https://github.com/azprime18/my_leetcode_journey/tree/master/1929-concatenation-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/azprime18/my_leetcode_journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/azprime18/my_leetcode_journey/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/azprime18/my_leetcode_journey/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/azprime18/my_leetcode_journey/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
