@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/azprime18/my_leetcode_journey/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/azprime18/my_leetcode_journey/tree/master/1000-minimum-cost-to-merge-stones) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/azprime18/my_leetcode_journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/azprime18/my_leetcode_journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/azprime18/my_leetcode_journey/tree/master/0342-power-of-four) |
 | [1903-largest-odd-number-in-string](https://github.com/azprime18/my_leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/azprime18/my_leetcode_journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
