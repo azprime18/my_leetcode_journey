@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/azprime18/my_leetcode_journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/azprime18/my_leetcode_journey/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/azprime18/my_leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
+| [3798-largest-even-number](https://github.com/azprime18/my_leetcode_journey/tree/master/3798-largest-even-number) |
 ## Dynamic Programming
 |  |
 | ------- |
