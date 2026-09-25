@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/azprime18/my_leetcode_journey/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/azprime18/my_leetcode_journey/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/azprime18/my_leetcode_journey/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/azprime18/my_leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/azprime18/my_leetcode_journey/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/azprime18/my_leetcode_journey/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/azprime18/my_leetcode_journey/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/azprime18/my_leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
