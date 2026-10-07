@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/azprime18/my_leetcode_journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/azprime18/my_leetcode_journey/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/azprime18/my_leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/azprime18/my_leetcode_journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3798-largest-even-number](https://github.com/azprime18/my_leetcode_journey/tree/master/3798-largest-even-number) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/azprime18/my_leetcode_journey/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/azprime18/my_leetcode_journey/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/azprime18/my_leetcode_journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/azprime18/my_leetcode_journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/azprime18/my_leetcode_journey/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/azprime18/my_leetcode_journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/azprime18/my_leetcode_journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/azprime18/my_leetcode_journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/azprime18/my_leetcode_journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
 | ------- |
