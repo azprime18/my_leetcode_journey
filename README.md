@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/azprime18/my_leetcode_journey/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/azprime18/my_leetcode_journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/azprime18/my_leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/azprime18/my_leetcode_journey/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/azprime18/my_leetcode_journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
